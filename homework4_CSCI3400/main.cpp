@@ -10,7 +10,7 @@ Store myStore;
 //Read the dataset file and loads myStore list
 void loadDataset(string fileName){
 	ifstream inFile;
-    string fullPath = "/Applications/Studying/FA21/CSCI3400/homework4_CSCI3400/";
+    string fullPath = "/Applications/Studying/Github/data-structures/homework4_CSCI3400";
     
 	inFile.open((fullPath + fileName).c_str());
     cout << fullPath + fileName<<endl;

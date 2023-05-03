@@ -120,9 +120,8 @@ void Store::print()
 }
 
 /*MARK: print(char startingLetter)*/
-void Store::print(char startingLetter)
-{//Printing all books whose title starts with the input character
-    
+void Store::print(char startingLetter) //Printing all books whose title starts with the input character
+{
     Textbook * current = head;
     
     if (current != NULL)
