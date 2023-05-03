@@ -1,0 +1,20 @@
+Introduction to Algorithms#Thomas H. Cormen#878134263-2#15.99
+Structure and Interpretation of Computer Programs#Harold Abelson#336190405-6#10.99
+The C Programming Language#Brian W. Kernighan#699022731-1#15.99
+The Pragmatic Programmer: From Journeyman to Master#Andy Hunt#888099490-5#25.99
+The Art of Computer Programming, Volumes 1-3 Boxed Set#Donald Ervin Knuth#625268126-1#31.99
+Design Patterns: Elements of Reusable Object-Oriented Software#Erich Gamma#604854500-2#17.99
+Introduction to the Theory of Computation#Michael Sipser#615228728-6#45.99
+Code: The Hidden Language of Computer Hardware and Software#Charles Petzold#822491420-8#65.99
+The Mythical Man-Month: Essays on Software Engineering#Frederick P. Brooks Jr.#987411743-5#23.99
+Artificial Intelligence: A Modern Approach#Stuart Russell#704058716-5#54.99
+Code Complete#Steve McConnell#465609758-6#29.99
+The Protocols (TCP/IP Illustrated, Volume 1)#W. Richard Stevens#126456048-6#4.99
+Algorithms#Robert Sedgewick#873746894-4#55.99
+Advanced Programming in the UNIX Environment#W. Richard Stevens#598255768-4#48.99
+A Discipline of Programming#Edsger W. Dijkstra#412861075-5#36.99
+Introduction to Automata Theory, Languages, and Computation#John E. Hopcroft#952883775-1#26.99
+Compilers: Principles, Techniques, and Tools#Alfred V. Aho#557104773-9#37.99
+Joel on Software#Joel Spolsky#394368902-6#31.98
+Learn You a Haskell for Great Good!: A Beginner's Guide#Miran Lipova a#260995077-2#11.99
+The Society of Mind#Marvin Minsky#539224508-0#1.99
